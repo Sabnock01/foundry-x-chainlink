@@ -1,2 +1,2 @@
-# forge-template
-Template for projects using [Foundry's forge](https://github.com/gakonst/foundry).
+# forge-chainlink
+This is a rewrite of [Patrick Collins](https://github.com/PatrickAlphaC)'s [dapptools-starter-kit](https://github.com/smartcontractkit/dapptools-starter-kit) demo of the various Chainlink tools using Foundry. 
