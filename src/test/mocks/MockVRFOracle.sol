@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: Unlicense
 pragma solidity ^0.8.10;
-import "ds-test/test.sol";
 
+import "ds-test/test.sol";
 import "../../VRFConsumer.sol";
 import "../mocks/MockVRFCoordinator.sol";
 import "forge-std/Vm.sol";
