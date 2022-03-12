@@ -1,0 +1,8 @@
+[default]
+src = 'src'
+out = 'out'
+libs = ['lib']
+remappings = ['ds-test/=lib/ds-test/src/', 'solmate/=lib/solmate/src/', 'forge-std/=lib/forge-std/src']
+solc_version = "0.8.10"
+
+# See more config options https://github.com/gakonst/foundry/tree/master/config
