@@ -9,7 +9,7 @@ contract CounterTest is DSTest {
     Counter public counter;
     uint256 public staticTime;
     uint256 public INTERVAL;
-    Vm internal constant vm = Vm(0x7109709ECfa91a80626fF3989D68f67F5b1DD12D);
+    Vm internal constant vm = Vm(address(0x7109709ECfa91a80626fF3989D68f67F5b1DD12D));
 
     function setUp() public {
         staticTime = block.timestamp;
